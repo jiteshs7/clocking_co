@@ -13,7 +13,7 @@ It's a analogue clock application which shows time of different countries, with 
 
 ## Link
 
-### <a ref="https://66152ddfdf6cd3007eb1ba8a--verdant-tarsier-c67676.netlify.app/">Click here</a>
+<a href="https://66152ddfdf6cd3007eb1ba8a--verdant-tarsier-c67676.netlify.app/" target='_blank' >Clocks & Co.</a>
 
 ## Installation
 
